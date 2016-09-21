@@ -1,0 +1,19 @@
+{
+  "name": "skycons",
+  "version": "1.0.0",
+  "description": "Skycons =======",
+  "main": "skycons.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikedon/skycons.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mikedon/skycons/issues"
+  },
+  "homepage": "https://github.com/mikedon/skycons#readme"
+}
